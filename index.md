@@ -1,6 +1,4 @@
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Политика конфиденциальности — приложение «СтройМастер»</title>
+    <title>Политика конфиденциальности — приложение «СтройМастер»</title>
   <style>
     body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.55; max-width: 860px; margin: 0 auto; padding: 24px; color: #222; }
     h1 { font-size: 1.6rem; }
